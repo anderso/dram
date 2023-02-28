@@ -831,7 +831,7 @@ to the compiler") "This is not ignored"
   #inst "2018-03-28T10:48:00.000"
   (type *1)
 
-  ;; #uuid will make an UUID of the string it tags
+  ;; #uuid will make a UUID of the string it tags
 
   #uuid "0000000-0000-0000-0000-000000000016"
   (java.util.UUID/fromString "0000000-0000-0000-0000-000000000016")
