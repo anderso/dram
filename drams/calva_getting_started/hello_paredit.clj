@@ -61,10 +61,6 @@
 ;; == Navigate the Structure ==
 ;; Move form-by-form using *Paredit Forward Sexp*
 ;; and *Paredit Backward Sexp*
-;; Note: Despite what the command palette is showing, the
-;; Keyboard shortcuts for Mac are alt+right/left and
-;; for Windows and Linux they are ctrl+right/left
-;; See https://github.com/BetterThanTomorrow/calva/issues/1161
 
 (def move
   [{:zero 0}
